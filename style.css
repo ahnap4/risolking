@@ -465,7 +465,7 @@ span {
     font-size: 62.5%;
   }
 }
-@media (max-width:380px) {
+@media (max-width:360px) {
   html {
     font-size: 55%;
   }
